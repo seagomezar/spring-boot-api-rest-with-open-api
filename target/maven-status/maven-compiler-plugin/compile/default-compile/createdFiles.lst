@@ -1,4 +1,4 @@
-com/clase/eafit/SumController.class
-com/clase/eafit/ProductController$Product.class
-com/clase/eafit/ProductController.class
+com/clase/eafit/controller/ProductController.class
 com/clase/eafit/DemoApplication.class
+com/clase/eafit/controller/SumController.class
+com/clase/eafit/model/Product.class

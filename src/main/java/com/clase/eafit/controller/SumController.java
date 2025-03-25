@@ -1,4 +1,4 @@
-package com.clase.eafit;
+package com.clase.eafit.controller;
 
 import java.util.Map;
 
