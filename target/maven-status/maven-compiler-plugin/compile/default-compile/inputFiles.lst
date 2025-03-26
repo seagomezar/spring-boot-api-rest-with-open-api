@@ -1,4 +1,8 @@
-/Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/ controller/ProductController.java
-/Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/ controller/SumController.java
 /Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/DemoApplication.java
+/Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/controller/ProductController.java
+/Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/controller/ProductControllerV2.java
+/Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/controller/ProductControllerV3.java
+/Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/controller/SumController.java
+/Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/dto/ProductCollection.java
+/Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/dto/ProductDTO.java
 /Users/sebgomez/Desktop/Clase10/src/main/java/com/clase/eafit/model/Product.java

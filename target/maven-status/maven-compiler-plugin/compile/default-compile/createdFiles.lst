@@ -1,4 +1,9 @@
-com/clase/eafit/controller/ProductController.class
+com/clase/eafit/controller/ProductControllerV2.class
 com/clase/eafit/DemoApplication.class
+com/clase/eafit/dto/ProductDTO.class
+com/clase/eafit/controller/ProductController.class
+com/clase/eafit/dto/ProductCollection.class
+com/clase/eafit/controller/ProductControllerV3.class
 com/clase/eafit/controller/SumController.class
 com/clase/eafit/model/Product.class
+com/clase/eafit/dto/ProductCollection$AdditionalData.class
