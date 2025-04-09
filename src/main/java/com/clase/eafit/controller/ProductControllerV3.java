@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -18,7 +17,6 @@ import com.clase.eafit.model.Product;
 
 @RestController
 @RequestMapping("/api/v3")
-@CrossOrigin(origins = "*")
 public class ProductControllerV3 {
 
     // Simulación de datos
